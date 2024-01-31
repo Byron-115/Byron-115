@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Byron Panimboza</h1>
 <h3 align="center">Soy Frontend Developer apasionado por las nuevas tecnologías</h3>
 
-- 💬 Me puedes preguntar acerca de **HTML, CSS, JavaScript, Java, Pytho, SQL**
+- 💬 Me puedes preguntar acerca de **HTML, CSS, JavaScript, Java, Python, SQL**
 
 - 📫 Me puedes contactar a través de **byron.115@hotmail.com**
 
