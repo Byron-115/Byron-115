@@ -1,11 +1,16 @@
-<h1 align="center">Hola 👋, me llamo Byron Panimboza</h1>
-<h3 align="center">Soy Frontend Developer apasionado por las nuevas tecnologías</h3>
+<h1 align="center"><b>Hi , I'm Byron Aurelio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web Developer..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-- 💬 Me puedes preguntar acerca de **HTML, CSS, JavaScript, Java, Python, SQL**
+<br>
 
-- 📫 Me puedes contactar a través de **byron.115@hotmail.com**
+- 💬 You can ask me about **HTML, CSS, JavaScript, Java, Python, SQL**
 
-- 📄 Puedes conocer más aqui [www.linkedin.com/in/bpu115](www.linkedin.com/in/bpu115)
+- 📫 Contact me **byron.115@hotmail.com**
+
+- 📄 Connect with me [www.linkedin.com/in/bpu115](www.linkedin.com/in/bpu115)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
